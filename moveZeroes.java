@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class zeroSolution{
     public void moveZeroes(int[] nums) { 
